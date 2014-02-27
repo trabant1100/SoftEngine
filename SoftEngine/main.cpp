@@ -1,4 +1,6 @@
 #include "Device.h"
+#include "Mesh.h"
+#include "Camera.h"
 #include <stdio.h>
 #include <iostream>
 
@@ -33,7 +35,7 @@ int main()
 
 void init()
 {
-	device = new Device(160, 100, 32);
+	device = new Device(640, 480, 32);
 
 	mesh.vertices[0] = glm::vec3(-1.0f, 1.0f, 1.0f);
     mesh.vertices[1] = glm::vec3(1, 1.0f, 1.0f);

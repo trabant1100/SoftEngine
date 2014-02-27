@@ -76,8 +76,9 @@
       <WarningLevel>Level3</WarningLevel>
       <Optimization>Disabled</Optimization>
       <LanguageStandardMode>LanguageStandardGnu++11</LanguageStandardMode>
-      <AdditionalIncludeDirectories>D:\Emscripten\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <DisableWarnings>warn-absolute-paths</DisableWarnings>
+      <AdditionalIncludeDirectories>..\glm</AdditionalIncludeDirectories>
+      <DisableWarnings>
+      </DisableWarnings>
       <GenerateDebugInformation>FullDebugInfo</GenerateDebugInformation>
     </ClCompile>
     <Link>
@@ -104,8 +105,9 @@
       <FunctionLevelLinking>true</FunctionLevelLinking>
       <IntrinsicFunctions>true</IntrinsicFunctions>
       <LanguageStandardMode>LanguageStandardGnu++11</LanguageStandardMode>
-      <AdditionalIncludeDirectories>D:\Emscripten\glm;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
-      <DisableWarnings>warn-absolute-paths</DisableWarnings>
+      <AdditionalIncludeDirectories>..\glm</AdditionalIncludeDirectories>
+      <DisableWarnings>
+      </DisableWarnings>
     </ClCompile>
     <Link>
       <GenerateDebugInformation>true</GenerateDebugInformation>
