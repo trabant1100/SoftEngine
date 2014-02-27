@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SoftEngine", "SoftEngine\SoftEngine.vcxproj", "{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Emscripten = Debug|Emscripten
+		Debug|Win32 = Debug|Win32
+		Release|Emscripten = Release|Emscripten
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Debug|Emscripten.ActiveCfg = Debug|Emscripten
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Debug|Emscripten.Build.0 = Debug|Emscripten
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Debug|Win32.Build.0 = Debug|Win32
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Release|Emscripten.ActiveCfg = Release|Emscripten
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Release|Emscripten.Build.0 = Release|Emscripten
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Release|Win32.ActiveCfg = Release|Win32
+		{2A6FC075-97A4-4C1E-AA29-EDE41BF4FFB7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
